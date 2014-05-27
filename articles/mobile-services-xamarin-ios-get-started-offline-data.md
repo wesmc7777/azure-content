@@ -217,11 +217,10 @@ When we wanted to synchronize the local store with the server, we used the `IMob
 
 
 <!-- URLs. -->
-[Handling conflicts with offline support for Mobile Services]: /en-us/documentation/articles/mobile-services-windows-store-dotnet-handling-conflicts-offline-data/ 
-[Get started with Mobile Services]: /en-us/develop/mobile/tutorials/get-started/#create-new-service
+[Handling conflicts with offline support for Mobile Services]: /en-us/documentation/articles/mobile-services-xamarin-ios-handling-conflicts-offline-data/ 
 [Getting Started]: /en-us/documentation/articles/mobile-services-dotnet-backend-windows-phone-get-started/
-[Get started with data]: /en-us/documentation/articles/mobile-services-dotnet-backend-windows-store-dotnet-get-started-data/
-[Get started with Mobile Services]: /en-us/documentation/articles/mobile-services-windows-store-get-started/
+[Get started with data]: /en-us/documentation/articles/partner-xamarin-mobile-services-ios-get-started-data/
+[Get started with Mobile Services]: /en-us/documentation/articles/partner-xamarin-mobile-services-ios-get-started/
 [How to use the Xamarin Component client for Azure Mobile Services]: /en-us/documentation/articles/partner-xamarin-mobile-services-how-to-use-client-library/
 
 [SQLite for Windows 8.1]: http://go.microsoft.com/fwlink/?LinkId=394776
